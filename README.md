@@ -39,6 +39,5 @@ pip install selenium webdriver-manager
 ## Installation
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/OwaisAmir/SpeechToText.git
    cd SpeechToText
