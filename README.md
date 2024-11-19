@@ -28,6 +28,13 @@ This repository contains a **Speech to Text** project, built using a combination
   - [Library, e.g., Google Speech Recognition API, SpeechRecognition]
 
 ---
+## Prerequisites
+
+Ensure you have Python installed on your system. Then, install the required modules by running:
+
+```bash
+pip install selenium webdriver-manager
+
 
 ## Installation
 
