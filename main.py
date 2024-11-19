@@ -1,4 +1,5 @@
-#owais this code is use to convert you speech to text the conversation you are doing with the help of this code.
+#Owais Aamir
+# This code is used to convert your speech to text in the conversation you are doing with the help of this code.
 #pip install selenium
 #pip install webdriver-manager
 from selenium import webdriver 
